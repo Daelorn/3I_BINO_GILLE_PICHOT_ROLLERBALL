@@ -1,0 +1,4 @@
+1-Exécuter le fichier AllInOne.exe une première fois et cliquer sue launch Server
+2- Re-Exécuter deux fois le fichier AllInOne.exe en choisissant join Game puis le serveur existant. 
+3-Utilisez les flèches directionnelles pour se déplacer, et espace pour mettre en pause
+4-Pour gagner, prendre la balle trois fois et la déplacer dans les buts adverses.
